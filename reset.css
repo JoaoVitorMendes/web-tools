@@ -1,0 +1,14 @@
+/*
+  Modificar no futuro esse reset
+*/
+
+*,
+*:after,
+*:before {
+  marging: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none
+}
+
+body { font-size: 100%; list-style-type: none }
